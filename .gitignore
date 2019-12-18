@@ -90,5 +90,5 @@ RNTester/Pods/*
 /schema-rncore.json
 
 # Visual studio
-.vscode
-.vs
+#.vscode
+#.vs
